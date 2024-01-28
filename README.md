@@ -10,4 +10,5 @@ utilise ces taux pour effectuer des conversions précises entre devises. Cette
 architecture, clairement segmentée et habilement orchestrée par Camunda,
 assure une maintenance optimale et une évolutivité accrue du système, avec
 une coordination sans appel direct entre les microservices.
-[rapport.pdf](https://github.com/saharOuaghlani/CamundaOrchestratedCreditSystem/files/14077962/rapport.pdf)
+
+![img1](https://github.com/saharOuaghlani/CamundaOrchestratedCreditSystem/assets/66756460/b0f71077-62f7-475c-b153-4ff3ec3f685f)
