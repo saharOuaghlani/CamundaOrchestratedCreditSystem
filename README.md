@@ -1,14 +1,11 @@
-## Structure de projet
-Notre projet repose sur une structure ingénieuse composée de quatre
-microservices distincts, orchestrés de manière fluide sous la supervision de
-Camunda par le biais d'API. Les microservices “Amazon Credit” et “Bank Credit”
-coordonnent respectivement les tests et déductions de crédit, ainsi que les tests
-et déductions de solde bancaire. Le "Get Conversion Rate Microservice" excelle
-dans la récupération des taux de change actuels via une API externe, tandis
-que le “Convert Amount Microservice”, également orchestré par Camunda,
-utilise ces taux pour effectuer des conversions précises entre devises. Cette
-architecture, clairement segmentée et habilement orchestrée par Camunda,
-assure une maintenance optimale et une évolutivité accrue du système, avec
-une coordination sans appel direct entre les microservices.
-
-![img1](https://github.com/saharOuaghlani/CamundaOrchestratedCreditSystem/assets/66756460/b0f71077-62f7-475c-b153-4ff3ec3f685f)
+![img00](https://github.com/saharOuaghlani/CamundaOrchestratedCreditSystem/assets/66756460/8f88b152-097e-4ba1-9cdb-0562487eeb2d)
+![img0](https://github.com/saharOuaghlani/CamundaOrchestratedCreditSystem/assets/66756460/1669fe6b-494f-44f8-a33c-3acadad157ad)
+![img1](https://github.com/saharOuaghlani/CamundaOrchestratedCreditSystem/assets/66756460/b15ec10f-188f-48a3-9747-2ac07070ba4d)
+![img2](https://github.com/saharOuaghlani/CamundaOrchestratedCreditSystem/assets/66756460/c2681975-c940-4edc-8c1c-0ff73a02b771)
+![img3](https://github.com/saharOuaghlani/CamundaOrchestratedCreditSystem/assets/66756460/e8d630f1-5506-4105-a41e-abb39c84d03f)
+![img4](https://github.com/saharOuaghlani/CamundaOrchestratedCreditSystem/assets/66756460/99644d99-2bb9-4853-af80-2145970796fb)
+![img5](https://github.com/saharOuaghlani/CamundaOrchestratedCreditSystem/assets/66756460/448350a9-0512-4501-96f0-32786de4a087)
+![img6](https://github.com/saharOuaghlani/CamundaOrchestratedCreditSystem/assets/66756460/f597606c-083f-4ae9-961d-2466b709031d)
+![img7](https://github.com/saharOuaghlani/CamundaOrchestratedCreditSystem/assets/66756460/1f4892bd-2ca4-481d-9ee7-87c040e46cc0)
+![img8](https://github.com/saharOuaghlani/CamundaOrchestratedCreditSystem/assets/66756460/e2582bd3-0831-44a1-a444-c68f289b44a6)
+![img9](https://github.com/saharOuaghlani/CamundaOrchestratedCreditSystem/assets/66756460/1cabe040-db6e-4561-b955-bff1885ea8d3)
